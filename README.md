@@ -13,7 +13,8 @@ To get started follow the steps below
 - Express
 - Knex
 
-ensp
+
+## Done
 
 - Assembled the back end of a movie website allowing any user to search for their favorite movies.
 - Used CRUD methods for reviews, and view theaters and movies that are showing. 
