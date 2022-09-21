@@ -1,3 +1,5 @@
+//method not allowed gives back status 405
+
 function methodNotAllowed(req, res, next) {
   next({
     status: 405,

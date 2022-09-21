@@ -1,3 +1,4 @@
+//miration made to create theaters table
 
 exports.up = function(knex) {
     return knex.schema.createTable("theaters", (table) => {

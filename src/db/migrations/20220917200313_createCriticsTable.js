@@ -1,3 +1,4 @@
+//miration made to create critics table
 
 exports.up = function(knex) {
   return knex.schema.createTable("critics", (table) => {

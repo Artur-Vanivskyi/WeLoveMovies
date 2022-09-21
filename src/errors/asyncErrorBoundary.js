@@ -1,3 +1,5 @@
+//function to handle try and catch block
+
 function asyncErrorBoundary(delegate, defaultStatus) {
     return (request, response, next) => {
       Promise.resolve()

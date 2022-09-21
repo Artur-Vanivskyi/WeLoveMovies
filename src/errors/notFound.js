@@ -1,3 +1,5 @@
+//not found handler
+
 function notFound(req, res, next) {
   next({
     status: 404,
